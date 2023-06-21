@@ -1,2 +1,2 @@
 # trainingdata
-training datasets
+training datasets and loading scripts for Neo4j
